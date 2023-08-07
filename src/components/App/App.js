@@ -7,7 +7,7 @@ import SearchBar from "../SearchBar/SearchBar";
 const App = () => {
   return (
     <div className={styles.App}>
-      <h1>ravenoous</h1>
+      <h1>Ravenoous</h1>
       <SearchBar />
       <BusinessList />
     </div>
